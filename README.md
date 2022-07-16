@@ -2,8 +2,8 @@
 Trying out some stuff
 
 Used:
-Yup
-Formik
-Semantic UI
-Mongoose
+Yup,
+Formik,
+Semantic UI,
+Mongoose,
 Material UI
